@@ -1,0 +1,15 @@
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/bin/Debug/net6.0/Examplie003_sum
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/bin/Debug/net6.0/Examplie003_sum.deps.json
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/bin/Debug/net6.0/Examplie003_sum.runtimeconfig.json
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/bin/Debug/net6.0/Examplie003_sum.dll
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/bin/Debug/net6.0/Examplie003_sum.pdb
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/obj/Debug/net6.0/Examplie003_sum.csproj.AssemblyReference.cache
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/obj/Debug/net6.0/Examplie003_sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/obj/Debug/net6.0/Examplie003_sum.AssemblyInfoInputs.cache
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/obj/Debug/net6.0/Examplie003_sum.AssemblyInfo.cs
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/obj/Debug/net6.0/Examplie003_sum.csproj.CoreCompileInputs.cache
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/obj/Debug/net6.0/Examplie003_sum.dll
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/obj/Debug/net6.0/refint/Examplie003_sum.dll
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/obj/Debug/net6.0/Examplie003_sum.pdb
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/obj/Debug/net6.0/Examplie003_sum.genruntimeconfig.cache
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Examplie003_sum/obj/Debug/net6.0/ref/Examplie003_sum.dll
