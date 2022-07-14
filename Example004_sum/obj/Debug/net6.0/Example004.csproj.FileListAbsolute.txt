@@ -1,0 +1,15 @@
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /bin/Debug/net6.0/Example004
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /bin/Debug/net6.0/Example004.deps.json
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /bin/Debug/net6.0/Example004.runtimeconfig.json
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /bin/Debug/net6.0/Example004.dll
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /bin/Debug/net6.0/Example004.pdb
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /obj/Debug/net6.0/Example004.csproj.AssemblyReference.cache
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /obj/Debug/net6.0/Example004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /obj/Debug/net6.0/Example004.AssemblyInfoInputs.cache
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /obj/Debug/net6.0/Example004.AssemblyInfo.cs
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /obj/Debug/net6.0/Example004.csproj.CoreCompileInputs.cache
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /obj/Debug/net6.0/Example004.dll
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /obj/Debug/net6.0/refint/Example004.dll
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /obj/Debug/net6.0/Example004.pdb
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /obj/Debug/net6.0/Example004.genruntimeconfig.cache
+/Users/Lena/ЯП/Lesson_1/Example001_HelloConsole/Example004 /obj/Debug/net6.0/ref/Example004.dll
